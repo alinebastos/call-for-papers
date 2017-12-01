@@ -11,3 +11,8 @@ Gravataí (RS), **Brazil**
 [Call for papers form](https://docs.google.com/forms/d/e/1FAIpQLSdhStMxKW6MVnb_ueiO7VJ4C7-ovp78jRWzSKyuxIlt0cisXg/viewform)  
 27 January, 2018  
 Aracaju (SE), **Brazil**
+
+[**DevDay RS**](http://devday.rs/)  
+[Call for papers form](https://docs.google.com/forms/d/e/1FAIpQLSdOUiIYEsotPizN3Vx4JFzSc1RHSKzI9TlGeWOHhcKPP_u0Sw/viewform)  
+17 March, 2018  
+Porto Alegre (RS), **Brazil**
