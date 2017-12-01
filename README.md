@@ -6,3 +6,8 @@ List with open Call for Papers!
 [Call for papers form](https://nodejspoa.typeform.com/to/b2Vp0L)  
 05 December, 2017  
 Gravataí (RS), **Brazil**
+
+[**1º Meetup ReactAJU**](https://www.meetup.com/ReactAJU/events/245305670/)  
+[Call for papers form](https://docs.google.com/forms/d/e/1FAIpQLSdhStMxKW6MVnb_ueiO7VJ4C7-ovp78jRWzSKyuxIlt0cisXg/viewform)  
+27 January, 2018  
+Aracaju (SE), **Brazil**
