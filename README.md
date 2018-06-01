@@ -9,6 +9,11 @@ List with open Call for Papers!
 28 Julho, 2018  
 Manaus (AM), **Brazil**
 
+[**Front in Vale**](www.frontinvale.com.br)  
+[Call for papers](https://frontinvale.typeform.com/to/EcAYVU)  
+11 Agosto, 2018  
+São José dos Campos (SP), **Brazil**
+
 [**WoMakersCode Summit Sergipe**](http://womakerscode.org/womakerscode-summit-sergipe/)  
 [Call for papers](http://womakerscode.org/submeta-sua-palestra/)  
 18 Agosto, 2018  
