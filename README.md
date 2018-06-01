@@ -28,3 +28,8 @@ São Cristóvão (SE), **Brazil**
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScrpj_s6P70vC0IsLLfSuy8Q4cMRc5FREiUQ4DvMrmIdYXbJA/viewform)  
 15 Setembro, 2018  
 Santa Maria (RS), **Brazil**
+
+[**ABCDev**](http://2018.abcdevelopers.org/)  
+[Call for papers](https://abcdevelopers.typeform.com/to/q779xK)  
+22 Setembro, 2018  
+São Caetano do Sul (SP), **Brazil**
