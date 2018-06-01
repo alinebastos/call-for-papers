@@ -39,7 +39,7 @@ São Caetano do Sul (SP), **Brazil**
 17-22 Outubro, 2018  
 Natal (RN), **Brazil**
 
-[**Meetup Blockchain Curitiba**](https://www.meetup.com/pt-BR/Blockchain-Curitiba/)  
+[**Meetup Blockchain Curitiba**](https://www.meetup.com/pt-BR/Blockchain-Curitiba/events/gkhzjpyxjbzb/)  
 [Call for papers](mailto:technology@jupter.co)  
-Sempre aberto - Encontros Mensais  
+19 Junho, 2018  
 Curitiba (PR), **Brazil**  
