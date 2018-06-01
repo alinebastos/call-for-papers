@@ -9,7 +9,7 @@ List with open Call for Papers!
 28 Julho, 2018  
 Manaus (AM), **Brazil**
 
-[**Front in Vale**](www.frontinvale.com.br)  
+[**Front in Vale**](http://www.frontinvale.com.br)  
 [Call for papers](https://frontinvale.typeform.com/to/EcAYVU)  
 11 Agosto, 2018  
 São José dos Campos (SP), **Brazil**
