@@ -24,6 +24,12 @@ São José dos Campos (SP), **Brazil**
 18 Agosto, 2018  
 São Cristóvão (SE), **Brazil**
 
+[**SciPy Latin America**](http://scipyla.org/conf/2018/)  
+[Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
+Call for papers **em breve**  
+29 de agosto a 1 de setembro de 2018  
+Curitiba (PR), **Brazil**
+
 [**BrazilJS On The Road Santa Maria**](https://braziljs.org/eventos/braziljs-on-the-road-santa-maria/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScrpj_s6P70vC0IsLLfSuy8Q4cMRc5FREiUQ4DvMrmIdYXbJA/viewform)  
 15 Setembro, 2018  
