@@ -33,3 +33,8 @@ Santa Maria (RS), **Brazil**
 [Call for papers](https://abcdevelopers.typeform.com/to/q779xK)  
 22 Setembro, 2018  
 São Caetano do Sul (SP), **Brazil**
+
+[**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
+[Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
+17-22 Outubro, 2018  
+Natal (RN), **Brazil**
