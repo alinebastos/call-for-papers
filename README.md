@@ -30,13 +30,19 @@ São Cristóvão (SE), **Brazil**
 Santa Maria (RS), **Brazil**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [**ABCDev**](http://2018.abcdevelopers.org/)  
 [Call for papers](https://abcdevelopers.typeform.com/to/q779xK)  
 22 Setembro, 2018  
 São Caetano do Sul (SP), **Brazil**
 =======
+=======
+>>>>>>> a68a93e0812c6d360b591f2594f8dbf4f05684b4
 [**ABC Dev**](http://2018.abcdevelopers.org/)
 [Call for papers](https://abcdevelopers.typeform.com/to/q779xK)
 22 Setembro, 2018
 região do Grande ABC (SP), **Brazil**
+<<<<<<< HEAD
 >>>>>>> Add new event with call for papers open
+=======
+>>>>>>> a68a93e0812c6d360b591f2594f8dbf4f05684b4
