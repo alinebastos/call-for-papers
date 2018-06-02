@@ -24,6 +24,12 @@ São José dos Campos (SP), **Brazil**
 18 Agosto, 2018  
 São Cristóvão (SE), **Brazil**
 
+[**SciPy Latin America**](http://scipyla.org/conf/2018/)  
+[Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
+Call for papers **em breve**  
+29 de agosto a 1 de setembro de 2018  
+Curitiba (PR), **Brazil**
+
 [**Linux Developer Conference Brazil (linuxdev-br)**](https://linuxdev-br.net/)  
 [Call for presentations](https://linuxdev-br.net/cfp-2018/) até **7 de junho**  
 25 a 26 de agosto, 2018  
