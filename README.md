@@ -45,3 +45,8 @@ Natal (RN), **Brazil**
 [Call for papers](https://mozillafestival.org/proposals)
 26-28 Outubro, 2018
 Londres, **Inglaterra**
+
+[**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
+[Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
+17-22 Outubro, 2018  
+Natal (RN), **Brazil**
