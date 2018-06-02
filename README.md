@@ -4,6 +4,11 @@ List with open Call for Papers!
 
 ### Brazil
 
+[**Meetup Blockchain Curitiba**](https://www.meetup.com/pt-BR/Blockchain-Curitiba/events/gkhzjpyxjbzb/)  
+[Call for papers](mailto:technology@jupter.co)  
+19 Junho, 2018  
+Curitiba (PR), **Brazil**  
+
 [**Front in Sampa**](https://www.frontinsampa.com.br/)  
 [Call for papers](https://www.papercall.io/frontinsampa2018)  
 14 Julho, 2018  
@@ -50,12 +55,6 @@ São Caetano do Sul (SP), **Brazil**
 17-22 Outubro, 2018  
 Natal (RN), **Brazil**
 
-[**Meetup Blockchain Curitiba**](https://www.meetup.com/pt-BR/Blockchain-Curitiba/events/gkhzjpyxjbzb/)  
-[Call for papers](mailto:technology@jupter.co)  
-19 Junho, 2018  
-Curitiba (PR), **Brazil**  
-
-=======
 ### International
 
 [**Mozilla Festival**](https://mozillafestival.org/)  
