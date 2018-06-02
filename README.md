@@ -30,6 +30,11 @@ Call for papers **em breve**
 29 de agosto a 1 de setembro de 2018  
 Curitiba (PR), **Brazil**
 
+[**Linux Developer Conference Brazil (linuxdev-br)**](https://linuxdev-br.net/)  
+[Call for presentations](https://linuxdev-br.net/cfp-2018/) até **7 de junho**  
+25 a 26 de agosto, 2018  
+Campinas (SP), **Brazil**
+
 [**BrazilJS On The Road Santa Maria**](https://braziljs.org/eventos/braziljs-on-the-road-santa-maria/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScrpj_s6P70vC0IsLLfSuy8Q4cMRc5FREiUQ4DvMrmIdYXbJA/viewform)  
 15 Setembro, 2018  
@@ -44,3 +49,10 @@ São Caetano do Sul (SP), **Brazil**
 [Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
 17-22 Outubro, 2018  
 Natal (RN), **Brazil**
+
+### International
+
+[**Mozilla Festival**](https://mozillafestival.org/)  
+[Call for papers](https://mozillafestival.org/proposals)  
+26-28 Outubro, 2018  
+Londres, **Inglaterra**
