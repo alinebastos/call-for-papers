@@ -38,3 +38,10 @@ São Caetano do Sul (SP), **Brazil**
 [Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
 17-22 Outubro, 2018  
 Natal (RN), **Brazil**
+
+### International
+
+[**Mozilla Festival**](https://mozillafestival.org/)
+[Call for papers](https://mozillafestival.org/proposals)
+26-28 Outubro, 2018
+Londres, *Inglaterra*
