@@ -55,7 +55,7 @@ São Caetano do Sul (SP), **Brazil**
 17 to 22 October, 2018  
 Natal (RN), **Brazil**
 
-### International
+### Europe
 
 [**Mozilla Festival**](https://mozillafestival.org/)  
 [Call for papers](https://mozillafestival.org/proposals)  
