@@ -60,4 +60,4 @@ Natal (RN), **Brazil**
 [**Mozilla Festival**](https://mozillafestival.org/)  
 [Call for papers](https://mozillafestival.org/proposals)  
 26 to 28 October, 2018  
-Londres, **Inglaterra**
+London, **England**
