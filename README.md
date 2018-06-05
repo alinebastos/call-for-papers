@@ -29,6 +29,11 @@ São José dos Campos (SP), **Brazil**
 18 August, 2018  
 São Cristóvão (SE), **Brazil**
 
+[**FlaskConf 2018**](https://2018.flask.python.org.br/)  
+[Call for papers](https://speakerfight.com/events/flaskconf-2018/)  
+24 to 25 August, 2018  
+São Paulo (SP), **Brazil**
+
 [**SciPy Latin America**](http://scipyla.org/conf/2018/)  
 [Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
 Call for papers **em breve**  
