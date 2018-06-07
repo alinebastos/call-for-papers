@@ -40,6 +40,11 @@ Call for papers **em breve**
 29 August to 1 September, 2018  
 Curitiba (PR), **Brazil**
 
+[**Vue.js Summit**](https://vuejssummit.com/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfFP7wJhNkaYtVUwnKYLhgtW6HIr7ESVSXn_o86zbUMqTtbww/viewform)  
+31 August to 1 September, 2018  
+São Paulo (SP), **Brazil**
+
 [**Linux Developer Conference Brazil (linuxdev-br)**](https://linuxdev-br.net/)  
 [Call for presentations](https://linuxdev-br.net/cfp-2018/) até **7 de junho**  
 25 to 26 August, 2018  
