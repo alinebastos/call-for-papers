@@ -75,6 +75,13 @@ São Caetano do Sul (SP), **Brazil**
 17 to 22 October, 2018  
 Natal (RN), **Brazil**
 
+### Argentina
+
+[**NodeConf Argentina 2018**](https://2018.nodeconf.com.ar/)  
+[Call for papers](https://2018.nodeconf.com.ar/cfp.html)  
+18 to 20 October, 2018  
+Buenos Aires, **Argentina**
+
 ### Europe
 
 [**Mozilla Festival**](https://mozillafestival.org/)  
