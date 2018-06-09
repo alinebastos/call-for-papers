@@ -60,6 +60,11 @@ Curitiba (PR), **Brazil**
 31 August to 1 September, 2018  
 São Paulo (SP), **Brazil**
 
+[**PHP Community Summit**](https://eventos.locaweb.com.br/proximos-eventos/php-community-summit-2018/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScZwc4DVjEUiR99pDyuFPOcQeFfHbTgDizf7jz9QDUBfrRkvQ/viewform)  
+14 to 15 September, 2018  
+São Paulo (SP), **Brazil**
+
 [**BrazilJS On The Road Santa Maria**](https://braziljs.org/eventos/braziljs-on-the-road-santa-maria/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScrpj_s6P70vC0IsLLfSuy8Q4cMRc5FREiUQ4DvMrmIdYXbJA/viewform)  
 15 September, 2018  
