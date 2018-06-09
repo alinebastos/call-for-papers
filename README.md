@@ -46,7 +46,7 @@ Porto Alegre (RS), **Brazil**
 
 [**SciPy Latin America**](http://scipyla.org/conf/2018/)  
 [Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
-Call for papers **em breve**  
+Call for papers **soon**  
 29 August to 1 September, 2018  
 Curitiba (PR), **Brazil**
 
@@ -56,7 +56,7 @@ Curitiba (PR), **Brazil**
 São Paulo (SP), **Brazil**
 
 [**Linux Developer Conference Brazil (linuxdev-br)**](https://linuxdev-br.net/)  
-[Call for presentations](https://linuxdev-br.net/cfp-2018/) até **7 de junho**  
+[Call for presentations](https://linuxdev-br.net/cfp-2018/) until **June 7**  
 25 to 26 August, 2018  
 Campinas (SP), **Brazil**
 
