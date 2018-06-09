@@ -88,3 +88,13 @@ Buenos Aires, **Argentina**
 [Call for papers](https://mozillafestival.org/proposals)  
 26 to 28 October, 2018  
 London, **England**
+
+[**PHP Central Europe Conference**](https://2018.phpce.eu/en/)  
+[Call for papers](https://cfp.phpce.eu/) until **June 30**  
+26 to 28 October, 2018  
+Prague, **Czech Republic**  
+
+[**Forum PHP Paris 2018**](https://event.afup.org/en/)  
+[Call for papers](https://afup.org/event/forumphp2018?_locale=en) until **June 18**  
+25 to 26 October, 2018  
+Paris, **France**  
