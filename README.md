@@ -39,11 +39,6 @@ São Paulo (SP), **Brazil**
 25 August, 2018  
 Porto Alegre (RS), **Brazil**
 
-[**Linux Developer Conference Brazil (linuxdev-br)**](https://linuxdev-br.net/)  
-[Call for presentations](https://linuxdev-br.net/cfp-2018/) until **June 7**  
-25 to 26 August, 2018  
-Campinas (SP), **Brazil**
-
 [**SciPy Latin America**](http://scipyla.org/conf/2018/)  
 [Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
 Call for papers **soon**  
