@@ -94,7 +94,12 @@ Prague, **Czech Republic**
 25 to 26 October, 2018  
 Paris, **France**  
 
-[**Code Mesh LDN**](https://codesync.global/conferences/code-mesh-2018/#CallforTalks)  
+[**Code Mesh LDN**](https://codesync.global/conferences/code-mesh-2018/)  
 [Call for papers](https://codesync.global/conferences/code-mesh-2018/#CallforTalks)  
 8-9 November, 2018  
 London, **England**
+
+[**Code BEAM Lite Berlin**](https://codesync.global/conferences/code-beam-lite-berlin-2018/)  
+[Call for papers](https://codesync.global/conferences/code-beam-lite-berlin-2018/#CallforTalks)  
+12 October, 2018  
+Berlin, **Germany**
