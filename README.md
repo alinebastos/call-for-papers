@@ -92,7 +92,12 @@ Prague, **Czech Republic**
 [**Forum PHP Paris 2018**](https://event.afup.org/en/)  
 [Call for papers](https://afup.org/event/forumphp2018?_locale=en) until **June 18**  
 25 to 26 October, 2018  
-Paris, **France**  
+Paris, **France**
+
+[**ReactiveConf 2018**](https://reactiveconf.com/)  
+[Call for papers](https://reactiveconf.com/)
+29 to 31 October, 2018  
+PRAGA, **República Tcheca**  
 
 [**Code Mesh LDN**](https://codesync.global/conferences/code-mesh-2018/)  
 [Call for papers](https://codesync.global/conferences/code-mesh-2018/#CallforTalks)  
