@@ -4,11 +4,6 @@ List with open Call for Papers!
 
 ### Brazil
 
-[**Meetup Blockchain Curitiba**](https://www.meetup.com/pt-BR/Blockchain-Curitiba/events/gkhzjpyxjbzb/)  
-[Call for papers](mailto:technology@jupter.co)  
-19 June, 2018  
-Curitiba (PR), **Brazil** 
-
 [**BrazilJS On The Road Manaus**](https://braziljs.org/eventos/braziljs-on-the-road-manaus/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScI7xxd2QX5JwXmzL9ZUGAB3BH9iCJwz1d-ckcX_5H0KsK6Ug/viewform)  
 28 July, 2018  
