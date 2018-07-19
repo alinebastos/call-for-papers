@@ -4,25 +4,14 @@ List with open Call for Papers!
 
 ### Brazil
 
-<<<<<<< HEAD
-[**Meetup Blockchain Curitiba**](https://www.meetup.com/pt-BR/Blockchain-Curitiba/events/gkhzjpyxjbzb/)
+[**Meetup Blockchain Curitiba**](https://www.meetup.com/pt-BR/Blockchain-Curitiba/events/250010911/)
 [Call for papers](mailto:technology@jupter.co)
-19 June, 2018
+24 July, 2018
 Curitiba (PR), **Brazil**
 
 [**BrazilJS On The Road Manaus**](https://braziljs.org/eventos/braziljs-on-the-road-manaus/)
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScI7xxd2QX5JwXmzL9ZUGAB3BH9iCJwz1d-ckcX_5H0KsK6Ug/viewform)
 28 July, 2018
-=======
-[**Meetup Blockchain Curitiba**](https://www.meetup.com/pt-BR/Blockchain-Curitiba/events/250010911/)  
-[Call for papers](mailto:technology@jupter.co)  
-24 July, 2018  
-Curitiba (PR), **Brazil**
-
-[**BrazilJS On The Road Manaus**](https://braziljs.org/eventos/braziljs-on-the-road-manaus/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScI7xxd2QX5JwXmzL9ZUGAB3BH9iCJwz1d-ckcX_5H0KsK6Ug/viewform)  
-28 July, 2018  
->>>>>>> upstream/master
 Manaus (AM), **Brazil**
 
 [**Front in Vale**](http://www.frontinvale.com.br)
@@ -87,6 +76,13 @@ Natal (RN), **Brazil**
 [Call for papers](https://2018.nodeconf.com.ar/cfp.html)
 18 to 20 October, 2018
 Buenos Aires, **Argentina**
+
+### EUA
+
+[**JSConf Hawaiʻi**](https://www.jsconfhi.com/)
+[Call for papers](https://www.jsconfhi.com/call-for-speakers)
+07 to 08 February, 2019
+Hawaii, **EUA**
 
 ### Europe
 
