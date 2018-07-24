@@ -70,6 +70,11 @@ São Caetano do Sul (SP), **Brazil**
 17 to 22 October, 2018  
 Natal (RN), **Brazil**
 
+[**DevFest Maceió**](https://www.sympla.com.br/devfest-maceio-2018__323796)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdwx9egUo5HuRIcRtJJDdc2P07r9rAPUw7pZDfaXXwIp3vgxw/viewform)  
+17 November, 2018  
+Maceió (AL), **Brazil**
+
 ### Argentina
 
 [**NodeConf Argentina 2018**](https://2018.nodeconf.com.ar/)  
