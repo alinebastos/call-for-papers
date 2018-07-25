@@ -65,6 +65,11 @@ Natal (RN), **Brazil**
 17 November, 2018  
 Maceió (AL), **Brazil**
 
+[**DevOpsDays Fortaleza**](https://www.devopsdays.org/events/2018-fortaleza/welcome/)  
+[Call for papers](https://www.papercall.io/devopsdaysfortaleza)  
+20 Outubro, 2018  
+Fortaleza (CE), **Brazil**
+
 ### Argentina
 
 [**NodeConf Argentina 2018**](https://2018.nodeconf.com.ar/)  
