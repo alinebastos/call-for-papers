@@ -60,13 +60,6 @@ Maceió (AL), **Brazil**
 20 Outubro, 2018  
 Fortaleza (CE), **Brazil**
 
-### Argentina
-
-[**NodeConf Argentina 2018**](https://2018.nodeconf.com.ar/)  
-[Call for papers](https://2018.nodeconf.com.ar/cfp.html)  
-18 to 20 October, 2018  
-Buenos Aires, **Argentina**
-
 ### EUA
 
 [**JSConf Hawaiʻi**](https://www.jsconfhi.com/)  
