@@ -57,8 +57,13 @@ Maceió (AL), **Brazil**
 
 [**DevOpsDays Fortaleza**](https://www.devopsdays.org/events/2018-fortaleza/welcome/)  
 [Call for papers](https://www.papercall.io/devopsdaysfortaleza)  
-20 Outubro, 2018  
+20 October, 2018  
 Fortaleza (CE), **Brazil**
+
+[**ReactConf BR 2018**](http://reactconfbr.com.br/)
+[Call for papers](https://www.papercall.io/reactconfbr2018)
+20 October, 2018
+São Paulo (SP), **Brazil**
 
 ### EUA
 
