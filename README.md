@@ -93,3 +93,10 @@ PRAGA, **República Tcheca**
 [Call for papers](https://codesync.global/conferences/code-mesh-2018/#CallforTalks)  
 8-9 November, 2018  
 London, **England**
+
+[**Code BEAM Lite Munich**](https://codesync.global/conferences/cbl-munich-2018/)
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScoCt3ZZPFJo5Ym30_k2jHHL4ZbYPxowpDxHg7uIVBHtB2jfA/viewform)
+Deadline: 9 September, 2018
+Event date: 7 December, 2018
+Munich, **Germany**
+
