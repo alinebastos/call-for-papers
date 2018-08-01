@@ -69,6 +69,12 @@ Hawaii, **EUA**
 
 ### Europe
 
+[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)
+Deadline: 16 September, 2018
+Event date: 30 November, 2018
+Amsterdam, **Holland**
+
 [**Mozilla Festival**](https://mozillafestival.org/)  
 [Call for papers](https://mozillafestival.org/proposals)  
 26 to 28 October, 2018  
