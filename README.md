@@ -60,17 +60,17 @@ Maceió (AL), **Brazil**
 20 October, 2018  
 Fortaleza (CE), **Brazil**
 
-[**ReactConf BR 2018**](http://reactconfbr.com.br/)
-[Call for papers](https://www.papercall.io/reactconfbr2018)
-20 October, 2018
+[**ReactConf BR 2018**](http://reactconfbr.com.br/)  
+[Call for papers](https://www.papercall.io/reactconfbr2018)  
+20 October, 2018  
 São Paulo (SP), **Brazil**
 
 ### EUA
 
-[**React Conf 2018**](https://conf.reactjs.org/)
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfy6kymX8hT84rm7b30NUdZN2Y0-4fhCU9mp3adufRLCiuWLg/viewform)
-Deadline: 18 August, 2018
-Event date: 25 to 26 October, 2018
+[**React Conf 2018**](https://conf.reactjs.org/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfy6kymX8hT84rm7b30NUdZN2Y0-4fhCU9mp3adufRLCiuWLg/viewform)  
+Deadline: 18 August, 2018   
+Event date: 25 to 26 October, 2018  
 Henderson, Nevada, **EUA**
 
 [**JSConf Hawaiʻi**](https://www.jsconfhi.com/)  
@@ -80,10 +80,10 @@ Hawaii, **EUA**
 
 ### Europe
 
-[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)
-Deadline: 16 September, 2018
-Event date: 30 November, 2018
+[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)  
+Deadline: 16 September, 2018   
+Event date: 30 November, 2018  
 Amsterdam, **Holland**
 
 [**Mozilla Festival**](https://mozillafestival.org/)  
@@ -111,9 +111,9 @@ PRAGA, **República Tcheca**
 8-9 November, 2018  
 London, **England**
 
-[**Code BEAM Lite Munich**](https://codesync.global/conferences/cbl-munich-2018/)
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScoCt3ZZPFJo5Ym30_k2jHHL4ZbYPxowpDxHg7uIVBHtB2jfA/viewform)
-Deadline: 9 September, 2018
-Event date: 7 December, 2018
+[**Code BEAM Lite Munich**](https://codesync.global/conferences/cbl-munich-2018/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScoCt3ZZPFJo5Ym30_k2jHHL4ZbYPxowpDxHg7uIVBHtB2jfA/viewform)  
+Deadline: 9 September, 2018   
+Event date: 7 December, 2018  
 Munich, **Germany**
 
