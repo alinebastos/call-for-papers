@@ -62,6 +62,12 @@ Fortaleza (CE), **Brazil**
 
 ### EUA
 
+[**React Conf 2018**](https://conf.reactjs.org/)
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfy6kymX8hT84rm7b30NUdZN2Y0-4fhCU9mp3adufRLCiuWLg/viewform)
+Deadline: 18 August, 2018
+Event date: 25 to 26 October, 2018
+Henderson, Nevada, **EUA**
+
 [**JSConf Hawaiʻi**](https://www.jsconfhi.com/)  
 [Call for papers](https://www.jsconfhi.com/call-for-speakers)  
 07 to 08 February, 2019  
