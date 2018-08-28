@@ -29,7 +29,7 @@ São Caetano do Sul (SP), **Brazil**
 [**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
 [Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
 17 to 18 October, 2018
-Deadline: 07 September, 2018     
+Deadline: 07 September, 2018   
 Online , **Brazil**
 
 [**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
