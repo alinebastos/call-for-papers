@@ -4,25 +4,6 @@ List with open Call for Papers!
 
 ### Brazil
 
-[**WoMakersCode Summit Sergipe**](http://womakerscode.org/womakerscode-summit-sergipe/)  
-[Call for papers](http://womakerscode.org/submeta-sua-palestra/)  
-18 August, 2018  
-São Cristóvão (SE), **Brazil**
-
-[**Roadsec Florianópolis**](http://roadsec.com.br/florianopolis2018)  
-[Call for papers](http://roadsec.com.br/participe/#palestrantes)  
-18 August, 2018  
-Florianópolis (SC), **Brazil**
-
-[**FlaskConf 2018**](https://2018.flask.python.org.br/)  
-[Call for papers](https://speakerfight.com/events/flaskconf-2018/)  
-24 to 25 August, 2018  
-São Paulo (SP), **Brazil**
-
-[**Roadsec Porto Alegre**](http://roadsec.com.br/portoalegre2018)  
-[Call for papers](http://roadsec.com.br/participe/#palestrantes)  
-25 August, 2018  
-Porto Alegre (RS), **Brazil**
 
 [**SciPy Latin America**](http://scipyla.org/conf/2018/)  
 [Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
