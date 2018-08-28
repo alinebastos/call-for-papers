@@ -26,6 +26,12 @@ Santa Maria (RS), **Brazil**
 22 September, 2018  
 São Caetano do Sul (SP), **Brazil**
 
+[**Conexão KINGHOST **](https://www.conexaokinghost.com.br/)  
+[Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
+17 to 18 October, 2018
+Deadline: 07 September, 2018     
+Online , **Brazil**
+
 [**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
 [Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
 17 to 22 October, 2018  
