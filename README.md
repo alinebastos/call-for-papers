@@ -4,25 +4,6 @@ List with open Call for Papers!
 
 ### Brazil
 
-[**WoMakersCode Summit Sergipe**](http://womakerscode.org/womakerscode-summit-sergipe/)  
-[Call for papers](http://womakerscode.org/submeta-sua-palestra/)  
-18 August, 2018  
-São Cristóvão (SE), **Brazil**
-
-[**Roadsec Florianópolis**](http://roadsec.com.br/florianopolis2018)  
-[Call for papers](http://roadsec.com.br/participe/#palestrantes)  
-18 August, 2018  
-Florianópolis (SC), **Brazil**
-
-[**FlaskConf 2018**](https://2018.flask.python.org.br/)  
-[Call for papers](https://speakerfight.com/events/flaskconf-2018/)  
-24 to 25 August, 2018  
-São Paulo (SP), **Brazil**
-
-[**Roadsec Porto Alegre**](http://roadsec.com.br/portoalegre2018)  
-[Call for papers](http://roadsec.com.br/participe/#palestrantes)  
-25 August, 2018  
-Porto Alegre (RS), **Brazil**
 
 [**SciPy Latin America**](http://scipyla.org/conf/2018/)  
 [Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
@@ -44,6 +25,12 @@ Santa Maria (RS), **Brazil**
 [Call for papers](https://abcdevelopers.typeform.com/to/q779xK)  
 22 September, 2018  
 São Caetano do Sul (SP), **Brazil**
+
+[**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
+[Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
+17 to 18 October, 2018
+Deadline: 07 September, 2018   
+Online , **Brazil**
 
 [**PHP DAY CURITIBA 2018**](http://phpdaycuritiba.com.br/)  
 [Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true)  
