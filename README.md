@@ -26,16 +26,31 @@ Santa Maria (RS), **Brazil**
 22 September, 2018  
 São Caetano do Sul (SP), **Brazil**
 
+[**INTERCON 2018**](https://eventos.imasters.com.br/intercon/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdu2h4tExldikqH3gQ8Deusl0GdqM26RSTv-WTgkYMnWGzXVg/viewform)  
+05 to 06 October, 2018  
+São Paulo (SP), **Brazil**
+
+[**PHP DAY CURITIBA 2018**](http://phpdaycuritiba.com.br/)  
+[Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true)  
+06 October, 2018  
+Curitiba (PR), **Brazil**
+
 [**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
 [Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
 17 to 18 October, 2018
 Deadline: 07 September, 2018   
 Online , **Brazil**
 
-[**PHP DAY CURITIBA 2018**](http://phpdaycuritiba.com.br/)  
-[Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true)  
-06 October, 2018  
-Curitiba (PR), **Brazil**
+[**DevOpsDays Fortaleza**](https://www.devopsdays.org/events/2018-fortaleza/welcome/)  
+[Call for papers](https://www.papercall.io/devopsdaysfortaleza)  
+20 October, 2018  
+Fortaleza (CE), **Brazil**
+
+[**ReactConf BR 2018**](http://reactconfbr.com.br/)  
+[Call for papers](https://www.papercall.io/reactconfbr2018)  
+20 October, 2018  
+São Paulo (SP), **Brazil**
 
 [**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
 [Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
@@ -52,16 +67,6 @@ Belo Horizonte (BH), **Brazil**
 17 November, 2018  
 Maceió (AL), **Brazil**
 
-[**DevOpsDays Fortaleza**](https://www.devopsdays.org/events/2018-fortaleza/welcome/)  
-[Call for papers](https://www.papercall.io/devopsdaysfortaleza)  
-20 October, 2018  
-Fortaleza (CE), **Brazil**
-
-[**ReactConf BR 2018**](http://reactconfbr.com.br/)  
-[Call for papers](https://www.papercall.io/reactconfbr2018)  
-20 October, 2018  
-São Paulo (SP), **Brazil**
-
 ### EUA
 
 [**React Conf 2018**](https://conf.reactjs.org/)  
@@ -77,16 +82,11 @@ Hawaii, **EUA**
 
 ### Europe
 
-[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)  
-Deadline: 16 September, 2018   
-Event date: 30 November, 2018  
-Amsterdam, **Holland**
-
 [**Mozilla Festival**](https://mozillafestival.org/)  
 [Call for papers](https://mozillafestival.org/proposals)  
 26 to 28 October, 2018  
 London, **England**
+
 
 [**PHP Central Europe Conference**](https://2018.phpce.eu/en/)  
 [Call for papers](https://cfp.phpce.eu/) until **June 30**  
@@ -107,6 +107,12 @@ PRAGA, **República Tcheca**
 [Call for papers](https://codesync.global/conferences/code-mesh-2018/#CallforTalks)  
 8-9 November, 2018  
 London, **England**
+
+[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)  
+Deadline: 16 September, 2018   
+Event date: 30 November, 2018  
+Amsterdam, **Holland**
 
 [**Code BEAM Lite Munich**](https://codesync.global/conferences/cbl-munich-2018/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScoCt3ZZPFJo5Ym30_k2jHHL4ZbYPxowpDxHg7uIVBHtB2jfA/viewform)  
