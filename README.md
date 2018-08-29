@@ -32,6 +32,11 @@ São Caetano do Sul (SP), **Brazil**
 Deadline: 07 September, 2018   
 Online , **Brazil**
 
+[**PHP DAY CURITIBA 2018**](http://phpdaycuritiba.com.br/)  
+[Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true)  
+06 October, 2018  
+Curitiba (PR), **Brazil**
+
 [**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
 [Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
 17 to 22 October, 2018  
