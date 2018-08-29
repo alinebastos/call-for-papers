@@ -26,16 +26,21 @@ Santa Maria (RS), **Brazil**
 22 September, 2018  
 São Caetano do Sul (SP), **Brazil**
 
-[**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
-[Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
-17 to 18 October, 2018
-Deadline: 07 September, 2018   
-Online , **Brazil**
+[**INTERCON 2018**](https://eventos.imasters.com.br/intercon/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdu2h4tExldikqH3gQ8Deusl0GdqM26RSTv-WTgkYMnWGzXVg/viewform)  
+05 to 06 October, 2018  
+São Paulo (SP), **Brazil**
 
 [**PHP DAY CURITIBA 2018**](http://phpdaycuritiba.com.br/)  
 [Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true)  
 06 October, 2018  
 Curitiba (PR), **Brazil**
+
+[**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
+[Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
+17 to 18 October, 2018
+Deadline: 07 September, 2018   
+Online , **Brazil**
 
 [**DevOpsDays Fortaleza**](https://www.devopsdays.org/events/2018-fortaleza/welcome/)  
 [Call for papers](https://www.papercall.io/devopsdaysfortaleza)  
