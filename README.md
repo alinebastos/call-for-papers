@@ -42,6 +42,11 @@ Curitiba (PR), **Brazil**
 17 to 22 October, 2018  
 Natal (RN), **Brazil**
 
+[**DevFest BH**](http://www.devfestbh.com/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfKmpzuzW72FiVjP6-mnyzWt2KXRUFJAp_5Hiy0DSA1E8VHGg/viewform)  
+10 November, 2018  
+Belo Horizonte (BH), **Brazil**
+
 [**DevFest Maceió**](https://www.sympla.com.br/devfest-maceio-2018__323796)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdwx9egUo5HuRIcRtJJDdc2P07r9rAPUw7pZDfaXXwIp3vgxw/viewform)  
 17 November, 2018  
