@@ -5,22 +5,6 @@ List with open Call for Papers!
 ### Brazil
 
 
-[**SciPy Latin America**](http://scipyla.org/conf/2018/)  
-[Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
-Call for papers **soon**  
-29 August to 1 September, 2018  
-Curitiba (PR), **Brazil**
-
-[**Vue.js Summit**](https://vuejssummit.com/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfFP7wJhNkaYtVUwnKYLhgtW6HIr7ESVSXn_o86zbUMqTtbww/viewform)  
-31 August to 1 September, 2018  
-São Paulo (SP), **Brazil**
-
-[**BrazilJS On The Road Santa Maria**](https://braziljs.org/eventos/braziljs-on-the-road-santa-maria/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScrpj_s6P70vC0IsLLfSuy8Q4cMRc5FREiUQ4DvMrmIdYXbJA/viewform)  
-15 September, 2018  
-Santa Maria (RS), **Brazil**
-
 [**ABCDev**](http://2018.abcdevelopers.org/)  
 [Call for papers](https://abcdevelopers.typeform.com/to/q779xK)  
 22 September, 2018  
@@ -32,7 +16,7 @@ São Caetano do Sul (SP), **Brazil**
 São Paulo (SP), **Brazil**
 
 [**PHP DAY CURITIBA 2018**](http://phpdaycuritiba.com.br/)  
-[Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true)  
+[Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true) 
 06 October, 2018  
 Curitiba (PR), **Brazil**
 
