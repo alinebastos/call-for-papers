@@ -80,6 +80,12 @@ Henderson, Nevada, **EUA**
 07 to 08 February, 2019  
 Hawaii, **EUA**
 
+[**PyCascade**](https://2019.pycascades.com/)  
+[Call for papers](https://2019.pycascades.com/news/2-cfp-now-open/)  
+23 to 24 February, 2019  
+Seattle, **EUA**
+
+
 ### Europe
 
 [**Mozilla Festival**](https://mozillafestival.org/)  
