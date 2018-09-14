@@ -4,61 +4,27 @@ List with open Call for Papers!
 
 ### Brazil
 
-[**WoMakersCode Summit Sergipe**](http://womakerscode.org/womakerscode-summit-sergipe/)  
-[Call for papers](http://womakerscode.org/submeta-sua-palestra/)  
-18 August, 2018  
-São Cristóvão (SE), **Brazil**
-
-[**Roadsec Florianópolis**](http://roadsec.com.br/florianopolis2018)  
-[Call for papers](http://roadsec.com.br/participe/#palestrantes)  
-18 August, 2018  
-Florianópolis (SC), **Brazil**
-
-[**FlaskConf 2018**](https://2018.flask.python.org.br/)  
-[Call for papers](https://speakerfight.com/events/flaskconf-2018/)  
-24 to 25 August, 2018  
-São Paulo (SP), **Brazil**
-
-[**Roadsec Porto Alegre**](http://roadsec.com.br/portoalegre2018)  
-[Call for papers](http://roadsec.com.br/participe/#palestrantes)  
-25 August, 2018  
-Porto Alegre (RS), **Brazil**
-
-[**SciPy Latin America**](http://scipyla.org/conf/2018/)  
-[Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
-Call for papers **soon**  
-29 August to 1 September, 2018  
-Curitiba (PR), **Brazil**
-
-[**Vue.js Summit**](https://vuejssummit.com/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfFP7wJhNkaYtVUwnKYLhgtW6HIr7ESVSXn_o86zbUMqTtbww/viewform)  
-31 August to 1 September, 2018  
-São Paulo (SP), **Brazil**
-
-[**BrazilJS On The Road Santa Maria**](https://braziljs.org/eventos/braziljs-on-the-road-santa-maria/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScrpj_s6P70vC0IsLLfSuy8Q4cMRc5FREiUQ4DvMrmIdYXbJA/viewform)  
-15 September, 2018  
-Santa Maria (RS), **Brazil**
 
 [**ABCDev**](http://2018.abcdevelopers.org/)  
 [Call for papers](https://abcdevelopers.typeform.com/to/q779xK)  
 22 September, 2018  
 São Caetano do Sul (SP), **Brazil**
 
+[**INTERCON 2018**](https://eventos.imasters.com.br/intercon/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdu2h4tExldikqH3gQ8Deusl0GdqM26RSTv-WTgkYMnWGzXVg/viewform)  
+05 to 06 October, 2018  
+São Paulo (SP), **Brazil**
+
 [**PHP DAY CURITIBA 2018**](http://phpdaycuritiba.com.br/)  
-[Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true)  
+[Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true) 
 06 October, 2018  
 Curitiba (PR), **Brazil**
 
-[**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
-[Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
-17 to 22 October, 2018  
-Natal (RN), **Brazil**
-
-[**DevFest Maceió**](https://www.sympla.com.br/devfest-maceio-2018__323796)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdwx9egUo5HuRIcRtJJDdc2P07r9rAPUw7pZDfaXXwIp3vgxw/viewform)  
-17 November, 2018  
-Maceió (AL), **Brazil**
+[**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
+[Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
+17 to 18 October, 2018
+Deadline: 07 September, 2018   
+Online , **Brazil**
 
 [**DevOpsDays Fortaleza**](https://www.devopsdays.org/events/2018-fortaleza/welcome/)  
 [Call for papers](https://www.papercall.io/devopsdaysfortaleza)  
@@ -69,6 +35,21 @@ Fortaleza (CE), **Brazil**
 [Call for papers](https://www.papercall.io/reactconfbr2018)  
 20 October, 2018  
 São Paulo (SP), **Brazil**
+
+[**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
+[Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
+17 to 22 October, 2018  
+Natal (RN), **Brazil**
+
+[**DevFest BH**](http://www.devfestbh.com/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfKmpzuzW72FiVjP6-mnyzWt2KXRUFJAp_5Hiy0DSA1E8VHGg/viewform)  
+10 November, 2018  
+Belo Horizonte (BH), **Brazil**
+
+[**DevFest Maceió**](https://www.sympla.com.br/devfest-maceio-2018__323796)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdwx9egUo5HuRIcRtJJDdc2P07r9rAPUw7pZDfaXXwIp3vgxw/viewform)  
+17 November, 2018  
+Maceió (AL), **Brazil**
 
 [**GDG DevFest Paraná 2018**](https://devfestpr.com/)  
 [Call for papers](https://goo.gl/forms/hjFR6ZZowI7dGnHT2)  
@@ -88,18 +69,19 @@ Henderson, Nevada, **EUA**
 07 to 08 February, 2019  
 Hawaii, **EUA**
 
-### Europe
+[**PyCascade**](https://2019.pycascades.com/)  
+[Call for papers](https://2019.pycascades.com/news/2-cfp-now-open/)  
+23 to 24 February, 2019  
+Seattle, **EUA**
 
-[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)  
-Deadline: 16 September, 2018   
-Event date: 30 November, 2018  
-Amsterdam, **Holland**
+
+### Europe
 
 [**Mozilla Festival**](https://mozillafestival.org/)  
 [Call for papers](https://mozillafestival.org/proposals)  
 26 to 28 October, 2018  
 London, **England**
+
 
 [**PHP Central Europe Conference**](https://2018.phpce.eu/en/)  
 [Call for papers](https://cfp.phpce.eu/) until **June 30**  
@@ -120,6 +102,12 @@ PRAGA, **República Tcheca**
 [Call for papers](https://codesync.global/conferences/code-mesh-2018/#CallforTalks)  
 8-9 November, 2018  
 London, **England**
+
+[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)  
+Deadline: 16 September, 2018   
+Event date: 30 November, 2018  
+Amsterdam, **Holland**
 
 [**Code BEAM Lite Munich**](https://codesync.global/conferences/cbl-munich-2018/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScoCt3ZZPFJo5Ym30_k2jHHL4ZbYPxowpDxHg7uIVBHtB2jfA/viewform)  
