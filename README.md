@@ -70,6 +70,11 @@ Fortaleza (CE), **Brazil**
 20 October, 2018  
 São Paulo (SP), **Brazil**
 
+[**GDG DevFest Paraná 2018**](https://devfestpr.com/)  
+[Call for papers](https://goo.gl/forms/hjFR6ZZowI7dGnHT2)  
+24 November, 2018  
+Maringá (PR), **Brazil**
+
 ### EUA
 
 [**React Conf 2018**](https://conf.reactjs.org/)  
