@@ -4,42 +4,11 @@ List with open Call for Papers!
 
 ### Brazil
 
-
-[**ABCDev**](http://2018.abcdevelopers.org/)  
-[Call for papers](https://abcdevelopers.typeform.com/to/q779xK)  
-22 September, 2018  
-São Caetano do Sul (SP), **Brazil**
-
-[**INTERCON 2018**](https://eventos.imasters.com.br/intercon/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdu2h4tExldikqH3gQ8Deusl0GdqM26RSTv-WTgkYMnWGzXVg/viewform)  
-05 to 06 October, 2018  
-São Paulo (SP), **Brazil**
-
-[**PHP DAY CURITIBA 2018**](http://phpdaycuritiba.com.br/)  
-[Call for papers](https://docs.google.com/forms/d/1m9plh7m3qpUM98eKqKOn8sgaE7DUWiVFyuiwfnQEL88/viewform?edit_requested=true) 
-06 October, 2018  
-Curitiba (PR), **Brazil**
-
 [**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
 [Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
 17 to 18 October, 2018
 Deadline: 07 September, 2018   
 Online , **Brazil**
-
-[**DevOpsDays Fortaleza**](https://www.devopsdays.org/events/2018-fortaleza/welcome/)  
-[Call for papers](https://www.papercall.io/devopsdaysfortaleza)  
-20 October, 2018  
-Fortaleza (CE), **Brazil**
-
-[**ReactConf BR 2018**](http://reactconfbr.com.br/)  
-[Call for papers](https://www.papercall.io/reactconfbr2018)  
-20 October, 2018  
-São Paulo (SP), **Brazil**
-
-[**PythonBrasil**](https://2018.pythonbrasil.org.br/)  
-[Call for papers](https://speakerfight.com/events/python-brasil-2018-palestras/)  
-17 to 22 October, 2018  
-Natal (RN), **Brazil**
 
 [**DevFest BH**](http://www.devfestbh.com/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfKmpzuzW72FiVjP6-mnyzWt2KXRUFJAp_5Hiy0DSA1E8VHGg/viewform)  
