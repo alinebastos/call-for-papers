@@ -25,6 +25,11 @@ Belo Horizonte (BH), **Brazil**
 17 November, 2018  
 Maceió (AL), **Brazil**
 
+[**BRAZILJS on the road Brasília**](https://braziljs.org/eventos/braziljs-on-the-road-brasilia/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdN7xTKDkLqoFKAtboe8WH2XT7u6Mp7nex87MkGDZ_LD9xENA/viewform)  
+17 November, 2018  
+Brasília (DF), **Brazil**
+
 [**GDG DevFest Paraná 2018**](https://devfestpr.com/)  
 [Call for papers](https://goo.gl/forms/hjFR6ZZowI7dGnHT2)  
 24 November, 2018  
