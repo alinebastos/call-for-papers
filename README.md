@@ -30,6 +30,11 @@ Maceió (AL), **Brazil**
 24 November, 2018  
 Maringá (PR), **Brazil**
 
+[**BRAZILJS on the road JoinVille**](https://braziljs.org/eventos/braziljs-on-the-road-joinville/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdQ5CobpkstUo0k8fDU0ACd5Yc4INJE384hfWyhGbd9tKIn9w/viewform)  
+24 November, 2018  
+JoinVille (SC), **Brazil**
+
 [**Front in Floripa 2018**](http://frontinfloripa.com.br/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSf1CrgbTH_WEiVb_J9_8kjkgaXXgXjCYIsLp924BVjz-jVpAg/viewform)  
 01 December, 2018  
