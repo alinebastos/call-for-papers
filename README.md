@@ -10,6 +10,11 @@ List with open Call for Papers!
 Deadline: 07 September, 2018   
 Online , **Brazil**
 
+[**BRAZILJS on the road BH**](https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdxnP-ONEImjqHzGejMI4g4tvOdVwcEk5M9X14HpqdZqESJcw/viewform)  
+27 October, 2018  
+Belo Horizonte (MG), **Brazil**
+
 [**DevFest BH**](http://www.devfestbh.com/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfKmpzuzW72FiVjP6-mnyzWt2KXRUFJAp_5Hiy0DSA1E8VHGg/viewform)  
 10 November, 2018  
