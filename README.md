@@ -25,6 +25,11 @@ Maceió (AL), **Brazil**
 24 November, 2018  
 Maringá (PR), **Brazil**
 
+[**Front in Floripa 2018**](http://frontinfloripa.com.br/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSf1CrgbTH_WEiVb_J9_8kjkgaXXgXjCYIsLp924BVjz-jVpAg/viewform)  
+01 December, 2018  
+Floripa (SC), **Brazil**
+
 ### USA
 [**PYCON 2019**](https://us.pycon.org/2019/)  
 [Call for papers](https://pycon.blogspot.com/2018/09/pycon-2019-call-for-proposals-is-open.html)  
