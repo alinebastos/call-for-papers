@@ -25,10 +25,20 @@ Belo Horizonte (BH), **Brazil**
 17 November, 2018  
 Maceió (AL), **Brazil**
 
+[**BRAZILJS on the road Brasília**](https://braziljs.org/eventos/braziljs-on-the-road-brasilia/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdN7xTKDkLqoFKAtboe8WH2XT7u6Mp7nex87MkGDZ_LD9xENA/viewform)  
+17 November, 2018  
+Brasília (DF), **Brazil**
+
 [**GDG DevFest Paraná 2018**](https://devfestpr.com/)  
 [Call for papers](https://goo.gl/forms/hjFR6ZZowI7dGnHT2)  
 24 November, 2018  
 Maringá (PR), **Brazil**
+
+[**BRAZILJS on the road JoinVille**](https://braziljs.org/eventos/braziljs-on-the-road-joinville/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdQ5CobpkstUo0k8fDU0ACd5Yc4INJE384hfWyhGbd9tKIn9w/viewform)  
+24 November, 2018  
+JoinVille (SC), **Brazil**
 
 [**Front in Floripa 2018**](http://frontinfloripa.com.br/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSf1CrgbTH_WEiVb_J9_8kjkgaXXgXjCYIsLp924BVjz-jVpAg/viewform)  
