@@ -60,3 +60,9 @@ Cleveland(Ohio) , **USA**
 Deadline: 16 September, 2018   
 Event date: 30 November, 2018  
 Amsterdam, **Holland**
+
+[**GDG DevFest Tbilisi**](https://www.meetup.com/Google-Developer-Group-Tbilisi-GDG-Tbilisi/)
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSd6qrBc-sitdGl9NmrZhXid5REuLtIHbIkdC_L-pFv7EL2aQQ/viewform)
+Deadline: 10 October, 2018
+Event date: 17 November, 2018
+Tbilisi, **Georgia**
