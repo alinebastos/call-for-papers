@@ -4,6 +4,12 @@ List with open Call for Papers!
 
 ### Brazil
 
+[**AngularSP Talks #20 TOTVS**](https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/255095950/)  
+[Call for papers](https://goo.gl/forms/hDRnubhPKzQMRWeG2)  
+16 October, 2018
+São Paulo (SP) , **Brazil**
+
+
 [**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
 [Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
 17 to 18 October, 2018
