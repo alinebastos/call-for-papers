@@ -61,8 +61,8 @@ Deadline: 16 September, 2018
 Event date: 30 November, 2018  
 Amsterdam, **Holland**
 
-[**GDG DevFest Coimbra**](https://devfest.gdgcoimbra.xyz/)
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSeh-IMdbyZ9ERXOZph6CZkPnjkNljVtXQWsJ6UbuMFJpAuQ5Q/viewform)
-Deadline: 31 October, 2018   
+[**GDG DevFest Coimbra**](https://devfest.gdgcoimbra.xyz/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSeh-IMdbyZ9ERXOZph6CZkPnjkNljVtXQWsJ6UbuMFJpAuQ5Q/viewform)  
+Deadline: 31 October, 2018  
 Event date: 24 November, 2018  
-Coimbra, **Portugal**
+Coimbra, **Portugal**  
