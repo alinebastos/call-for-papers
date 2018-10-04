@@ -55,15 +55,15 @@ Cleveland(Ohio) , **USA**
 
 ### Europe 
 
-[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)
-Deadline: 16 September, 2018
-Event date: 30 November, 2018
-Amsterdam, **Holland**
+[**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)  
+Deadline: 16 September, 2018  
+Event date: 30 November, 2018  
+Amsterdam, **Holland**  
 
-[**GDG DevFest Romania**](https://devfest.ro/)
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSe7G8vM0OIxn8X8nbZSLliWJ0e6Wcu2U3c5Jj-2o88FiBvEvg/viewform)
-Deadline: 16 October, 2018
-Event date: 16 November, 2018
-Bucharest, **Romania**
+[**GDG DevFest Romania**](https://devfest.ro/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSe7G8vM0OIxn8X8nbZSLliWJ0e6Wcu2U3c5Jj-2o88FiBvEvg/viewform)  
+Deadline: 16 October, 2018  
+Event date: 16 November, 2018  
+Bucharest, **Romania**  
 
