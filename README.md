@@ -4,6 +4,12 @@ List with open Call for Papers!
 
 ### Brazil
 
+[**AngularSP Talks #20 TOTVS**](https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/255095950/)  
+[Call for papers](https://goo.gl/forms/hDRnubhPKzQMRWeG2)  
+16 October, 2018
+São Paulo (SP) , **Brazil**
+
+
 [**Conexão KINGHOST**](https://www.conexaokinghost.com.br/)  
 [Call for papers](https://kinghost1.typeform.com/to/uWvR5X)  
 17 to 18 October, 2018
@@ -66,3 +72,31 @@ Amsterdam, **Holland**
 Deadline: 10 October, 2018
 Event date: 17 November, 2018
 Tbilisi, **Georgia**
+  
+
+[**GDG DevFest Romania**](https://devfest.ro/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSe7G8vM0OIxn8X8nbZSLliWJ0e6Wcu2U3c5Jj-2o88FiBvEvg/viewform)  
+Deadline: 16 October, 2018  
+Event date: 16 November, 2018  
+Bucharest, **Romania**
+
+[**GDG DevFest Istanbul**](https://devfest.istanbul)  
+[Call for papers](http://gdg.ist/dfist18-cfp)  
+Deadline: 21 October, 2018  
+Event date: 4 November, 2018  
+Istanbul, **Turkey**
+
+[**GDG DevFest Coimbra**](https://devfest.gdgcoimbra.xyz/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSeh-IMdbyZ9ERXOZph6CZkPnjkNljVtXQWsJ6UbuMFJpAuQ5Q/viewform)  
+Deadline: 31 October, 2018  
+Event date: 24 November, 2018  
+Coimbra, **Portugal** 
+
+
+### Asia  
+
+[**GDG DevFest Tashkent**](https://gdgtashkent.co/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfaqowtUmtlOto74JkTfV4asbV5kEWvhL7S6rydu063VmctqA/viewform)  
+Deadline: 15 October, 2018  
+Event date: 25 November, 2018  
+Tashkent, **Uzbekistan** 
