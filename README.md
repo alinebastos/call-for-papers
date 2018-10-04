@@ -61,10 +61,10 @@ Deadline: 16 September, 2018
 Event date: 30 November, 2018  
 Amsterdam, **Holland**
 
-### Asia
+### Asia  
 
-[**GDG DevFest Tashkent**](https://gdgtashkent.co/)
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfaqowtUmtlOto74JkTfV4asbV5kEWvhL7S6rydu063VmctqA/viewform)
-Deadline: 15 October, 2018
-Event date: 25 November, 2018
-Tashkent, Uzbekistan
+[**GDG DevFest Tashkent**](https://gdgtashkent.co/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfaqowtUmtlOto74JkTfV4asbV5kEWvhL7S6rydu063VmctqA/viewform)  
+Deadline: 15 October, 2018  
+Event date: 25 November, 2018  
+Tashkent, **Uzbekistan**  
