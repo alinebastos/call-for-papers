@@ -63,9 +63,16 @@ Cleveland(Ohio) , **USA**
 
 [**Code BEAM Lite Amsterdam**](https://codesync.global/conferences/cbl-amsterdam-2018/#CallforTalks)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdIR5lu1-Q8LBs2p_f2IdoBl8pNKO5JETSPTfUwei_X3NvXvg/viewform)  
-Deadline: 16 September, 2018  
-Event date: 30 November, 2018 
-Amsterdam, **Holland**  
+Deadline: 16 September, 2018   
+Event date: 30 November, 2018  
+Amsterdam, **Holland**
+
+[**GDG DevFest Tbilisi**](https://www.meetup.com/Google-Developer-Group-Tbilisi-GDG-Tbilisi/)
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSd6qrBc-sitdGl9NmrZhXid5REuLtIHbIkdC_L-pFv7EL2aQQ/viewform)
+Deadline: 10 October, 2018
+Event date: 17 November, 2018
+Tbilisi, **Georgia**
+  
 
 [**GDG DevFest Romania**](https://devfest.ro/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSe7G8vM0OIxn8X8nbZSLliWJ0e6Wcu2U3c5Jj-2o88FiBvEvg/viewform)  
