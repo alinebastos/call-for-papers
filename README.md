@@ -21,6 +21,11 @@ Online , **Brazil**
 27 October, 2018  
 Belo Horizonte (MG), **Brazil**
 
+[**CapiConf Online**](http://online.capiconf.com/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScOH1HYfVP6Fjv5vufCpftHts3rauhJ4q24Ig_QxKbZET3law/viewform)  
+05 to 16 November, 2018  
+Online , **Brazil**
+
 [**DevFest BH**](http://www.devfestbh.com/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfKmpzuzW72FiVjP6-mnyzWt2KXRUFJAp_5Hiy0DSA1E8VHGg/viewform)  
 10 November, 2018  
