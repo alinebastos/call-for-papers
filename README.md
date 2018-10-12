@@ -31,6 +31,12 @@ Online , **Brazil**
 10 November, 2018  
 Belo Horizonte (BH), **Brazil**
 
+[**GDG DevFest Rio de Janeiro**](https://www.sympla.com.br/devfest-rio-de-janeiro-2018__378568)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSd5-0sQ6SRDQ1SlTIhDiSZz4OIao0KEPSGf5Q7kpkX0QOmRGQ/viewform)  
+[Call for workshops](https://docs.google.com/forms/d/e/1FAIpQLSfPHMR3oFAognuqLfzUB-Ozi4V3myCh_Ov7Ex9oyJZ4DlnQ3w/viewform)  
+17 November, 2018  
+Rio de Janeiro (RJ), **Brazil**
+
 [**DevFest Maceió**](https://www.sympla.com.br/devfest-maceio-2018__323796)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdwx9egUo5HuRIcRtJJDdc2P07r9rAPUw7pZDfaXXwIp3vgxw/viewform)  
 17 November, 2018  
