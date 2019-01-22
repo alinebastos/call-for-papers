@@ -20,4 +20,10 @@ Cleveland(Ohio) , **USA**
 
 ### Europe
 
+[**ReactJS Girls Conference**](https://reactjsgirls.com/)  
+[Call for papers](https://yld.typeform.com/to/gfZ2jc)  
+03 May, 2019
+Deadline: 28 February, 2019  
+London, **UK**
+
 ### Asia
