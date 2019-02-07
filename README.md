@@ -10,6 +10,12 @@ List with open Call for Papers!
 Deadline: 03 February, 2019  
 Florianópolis(Santa Catarina) , **Brazil**
 
+[**Front In Campinas 2019**](https://frontincampinas.com.br/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSf45hsSqJOAxc0Ss82w1BFdLNPdPBdQl5DeGsfq77v562uZCQ/viewform)  
+04 May, 2019
+Deadline: 04 April, 2019  
+Campinas(SP) , **Brazil**
+
 ### USA
 
 [**PYCON 2019**](https://us.pycon.org/2019/)  
