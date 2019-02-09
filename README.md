@@ -16,6 +16,12 @@ Florianópolis(Santa Catarina) , **Brazil**
 Deadline: 04 April, 2019  
 Campinas(SP) , **Brazil**
 
+[**CAPICONF**](http://capiconf.com/)  
+[Call for papers](http://capiconf.com/)  
+10-11 May, 2019  
+Open: 15 Feb, 2019  
+Curitiba(PR) , **Brazil**
+
 [**RoadSec 2019**](https://roadsec.com.br/)
 [Call for papers](https://roadsec.com.br/participe/)
 Deadline:  
