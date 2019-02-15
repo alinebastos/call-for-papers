@@ -37,6 +37,12 @@ Deadline:
 29 Jun, 2019 - Belo Horizonte(MG)  
 23 Nov, 2019 - São Paulo(SP), **Brazil**
 
+[**DBA BRASIL 4.0**](https://dbabrasil.net.br/db4/)  
+[Call for papers](https://dbabrasil.net.br/db4/call4papers/)  
+04 May, 2019  
+Deadline: 16 March, 2019  
+São Paulo(SP), **Brazil**
+
 [**DevOpsDays Porto Alegre**](https://www.devopsdays.org/events/2019-porto-alegre/)  
 [Call for papers](https://www.papercall.io/devopsdayspoa2019)  
 24 - 25 May, 2019  
