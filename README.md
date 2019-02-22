@@ -16,14 +16,28 @@ Florianópolis(Santa Catarina) , **Brazil**
 Deadline: 04 April, 2019  
 Campinas(SP) , **Brazil**
 
+[**DevConf**](https://devconf.com.br/)  
+04 May, 2019  
+São Carlos(SP) , **Brazil**
+
+[**CryptoRave**](https://cryptorave.org/)  
+[Call for papers](https://cpa.cryptorave.org/en/cr2019/cfp)  
+04 - 05 May, 2019  
+Deadline: 31 March, 2019  
+São Paulo(SP), **Brazil**
+
+[**Conferência PHPRS 2019**](https://conference.phprs.com.br/)  
+17-18 May, 2019  
+Porto Alegre(RS) , **Brazil**
+
 [**CAPICONF**](http://capiconf.com/)  
-[Call for papers](http://capiconf.com/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScreztgbBGXjjllRiNIovdFnT7ZJl4QtJuEGo_BDgDDlEvafQ/viewform)  
 10-11 May, 2019  
-Open: 15 Feb, 2019  
+Deadline: 11 March, 2019  
 Curitiba(PR) , **Brazil**
 
 [**RoadSec 2019**](https://roadsec.com.br/)
-[Call for papers](https://roadsec.com.br/participe/)
+[Call for papers](https://roadsec.com.br/participe/)  
 Deadline:  
 04 Apr, 2019 - Campinas(SP)  
 24 Apr, 2019 - Belém(PA)  
@@ -49,6 +63,12 @@ São Paulo(SP), **Brazil**
 Deadline: 01 March, 2019  
 Porto Alegre(RS), **Brazil**
 
+[**Caipyra**](http://caipyra.python.org.br/)  
+[Call for papers](https://speakerfight.com/events/caipyra-2019-palestras/)  
+08 - 09 Jun, 2019  
+Deadline: 10 April, 2019
+São Carlos(SP) , **Brazil**
+
 [**Papis.io**](https://www.papis.io/)  
 [Call for papers](http://cfp.papis.io/events/latam-2019)  
 25 - 26 Jun, 2019  
@@ -59,7 +79,7 @@ São Paulo(SP), **Brazil**
 
 [**PYCON 2019**](https://us.pycon.org/2019/)  
 [Call for papers](https://pycon.blogspot.com/2018/09/pycon-2019-call-for-proposals-is-open.html)  
-01 to 09 May, 2019
+01 to 09 May, 2019  
 Deadline: 03 January, 2019  
 Cleveland(Ohio) , **USA**
 
