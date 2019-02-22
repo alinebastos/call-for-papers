@@ -36,7 +36,7 @@ Porto Alegre(RS) , **Brazil**
 Deadline: 11 March, 2019  
 Curitiba(PR) , **Brazil**
 
-[**RoadSec 2019**](https://roadsec.com.br/)
+[**RoadSec 2019**](https://roadsec.com.br/)  
 [Call for papers](https://roadsec.com.br/participe/)  
 Deadline:  
 04 Apr, 2019 - Campinas(SP)  
