@@ -75,6 +75,12 @@ São Carlos(SP) , **Brazil**
 Deadline: 13 March, 2019  
 São Paulo(SP), **Brazil**
 
+[**Front In SM**](https://frontinsm.com.br/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdFT-v-tZitDSgNZdc-yKsd-EwyhrN-WTWm2NdtYTTrtJYU9A/viewform)  
+08 Jun, 2019  
+Deadline: 24 March, 2019  
+Santa Maria(RS), **Brazil**
+
 ### USA
 
 [**PYCON 2019**](https://us.pycon.org/2019/)  
@@ -82,6 +88,12 @@ São Paulo(SP), **Brazil**
 01 to 09 May, 2019  
 Deadline: 03 January, 2019  
 Cleveland(Ohio) , **USA**
+
+[**Microsoft Build**](https://www.microsoft.com/en-us/build)  
+[Call for papers](https://sessionize.com/build?WT.mc_id=ch9-yt-chwarren)  
+06 to 08 May, 2019
+Deadline: 16 March, 2019  
+Seattle (Washington) , **USA**
 
 ### Europe
 
