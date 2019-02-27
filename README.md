@@ -81,6 +81,11 @@ São Paulo(SP), **Brazil**
 Deadline: 24 March, 2019  
 Santa Maria(RS), **Brazil**
 
+[**Front In Sampa**](https://www.frontinsampa.com.br/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdOV0GjkppZdQmwyBNcqpMFdDthaAvpyzoRDR501E7ruOyFHg/viewform)  
+13 July, 2019  
+São Paulo(SP), **Brazil**
+
 ### USA
 
 [**PYCON 2019**](https://us.pycon.org/2019/)  
