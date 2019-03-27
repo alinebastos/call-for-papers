@@ -22,7 +22,7 @@ São Carlos(SP) , **Brazil**
 
 [**CryptoRave**](https://cryptorave.org/)  
 [Call for papers](https://cpa.cryptorave.org/en/cr2019/cfp)  
-04 - 05 May, 2019  
+03 - 04 May, 2019  
 Deadline: 31 March, 2019  
 São Paulo(SP), **Brazil**
 
