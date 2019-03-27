@@ -10,6 +10,12 @@ List with open Call for Papers!
 Deadline: 11 February, 2019  
 Florianópolis(Santa Catarina) , **Brazil**
 
+[**TDC Belo Horizonte 2019**](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas)  
+[Call for papers](http://cfp-bh.thedevconf.com.br/)  
+13 to 15 June, 2019
+Deadline: 29 March, 2019  
+Belo Horizonte(Minas Gerais) , **Brazil**
+
 [**Front In Campinas 2019**](https://frontincampinas.com.br/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSf45hsSqJOAxc0Ss82w1BFdLNPdPBdQl5DeGsfq77v562uZCQ/viewform)  
 04 May, 2019
