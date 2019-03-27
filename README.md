@@ -20,6 +20,12 @@ Campinas(SP) , **Brazil**
 04 May, 2019  
 São Carlos(SP) , **Brazil**
 
+[**DevDay**](https://devday.devisland.com/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSerTwkLtlSctLD6D4SBjh-p-S7kvDVGvGR6C6cSkw9owDBgag/viewform)  
+24 Aug, 2019
+Deadline: 31 March, 2019  
+Belo Horizonte(MG) , **Brazil**
+
 [**CryptoRave**](https://cryptorave.org/)  
 [Call for papers](https://cpa.cryptorave.org/en/cr2019/cfp)  
 03 - 04 May, 2019  
