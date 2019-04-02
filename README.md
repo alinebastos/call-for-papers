@@ -32,6 +32,12 @@ São Carlos(SP) , **Brazil**
 Deadline: 10 April, 2019  
 Belo Horizonte(MG) , **Brazil**
 
+[**The Conf 2019**](https://www.theconf.club/)  
+[Call for papers](https://cfp.theconf.club/)  
+16 - 17 Aug, 2019  
+Deadline: 30 April, 2019  
+São Paulo (SP), **Brazil**
+
 [**CryptoRave**](https://cryptorave.org/)  
 [Call for papers](https://cpa.cryptorave.org/en/cr2019/cfp)  
 03 - 04 May, 2019  
