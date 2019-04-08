@@ -4,50 +4,32 @@ List with open Call for Papers!
 
 ### Brazil
 
-[**ABC-Dev 2019**](http://www.abcdevelopers.org)  
-[Call for papers](http://www.abcdevelopers.org)  
-21 September, 2019
-Deadline: 31 July, 2019  
-Grande ABC(São Paulo) , **Brazil**
-
 [**TDC Florianópolis 2019**](http://www.thedevelopersconference.com.br/tdc/2019/index.html)  
 [Call for papers](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/call4papers)  
-23 to 27 April, 2019
-Deadline: 11 February, 2019  
+23 to 27 April, 2019  
+Deadline: 11 February, 2019   
 Florianópolis(Santa Catarina) , **Brazil**
-
-[**TDC Belo Horizonte 2019**](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas)  
-[Call for papers](http://cfp-bh.thedevconf.com.br/)  
-13 to 15 June, 2019
-Deadline: 29 March, 2019  
-Belo Horizonte(Minas Gerais) , **Brazil**
-
-[**Front In Campinas 2019**](https://frontincampinas.com.br/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSf45hsSqJOAxc0Ss82w1BFdLNPdPBdQl5DeGsfq77v562uZCQ/viewform)  
-04 May, 2019
-Deadline: 04 April, 2019  
-Campinas(SP) , **Brazil**
 
 [**DevConf**](https://devconf.com.br/)  
 04 May, 2019  
 São Carlos(SP) , **Brazil**
 
-[**DevDay**](https://devday.devisland.com/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSerTwkLtlSctLD6D4SBjh-p-S7kvDVGvGR6C6cSkw9owDBgag/viewform)  
-24 Aug, 2019
-Deadline: 10 April, 2019  
-Belo Horizonte(MG) , **Brazil**
-
-[**The Conf 2019**](https://www.theconf.club/)  
-[Call for papers](https://cfp.theconf.club/)  
-16 - 17 Aug, 2019  
-Deadline: 30 April, 2019  
-São Paulo (SP), **Brazil**
+[**Front In Campinas 2019**](https://frontincampinas.com.br/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSf45hsSqJOAxc0Ss82w1BFdLNPdPBdQl5DeGsfq77v562uZCQ/viewform)  
+04 May, 2019  
+Deadline: 04 April, 2019   
+Campinas(SP) , **Brazil**
 
 [**CryptoRave**](https://cryptorave.org/)  
 [Call for papers](https://cpa.cryptorave.org/en/cr2019/cfp)  
 03 - 04 May, 2019  
 Deadline: 31 March, 2019  
+São Paulo(SP), **Brazil**
+
+[**DBA BRASIL 4.0**](https://dbabrasil.net.br/db4/)  
+[Call for papers](https://dbabrasil.net.br/db4/call4papers/)  
+04 May, 2019  
+Deadline: 16 March, 2019  
 São Paulo(SP), **Brazil**
 
 [**Conferência PHPRS 2019**](https://conference.phprs.com.br/)  
@@ -75,12 +57,6 @@ Deadline:
 29 Jun, 2019 - Belo Horizonte(MG)  
 23 Nov, 2019 - São Paulo(SP), **Brazil**
 
-[**DBA BRASIL 4.0**](https://dbabrasil.net.br/db4/)  
-[Call for papers](https://dbabrasil.net.br/db4/call4papers/)  
-04 May, 2019  
-Deadline: 16 March, 2019  
-São Paulo(SP), **Brazil**
-
 [**DevOpsDays Porto Alegre**](https://www.devopsdays.org/events/2019-porto-alegre/)  
 [Call for papers](https://www.papercall.io/devopsdayspoa2019)  
 24 - 25 May, 2019  
@@ -90,20 +66,26 @@ Porto Alegre(RS), **Brazil**
 [**Caipyra**](http://caipyra.python.org.br/)  
 [Call for papers](https://speakerfight.com/events/caipyra-2019-palestras/)  
 08 - 09 Jun, 2019  
-Deadline: 10 April, 2019
+Deadline: 10 April, 2019  
 São Carlos(SP) , **Brazil**
-
-[**Papis.io**](https://www.papis.io/)  
-[Call for papers](http://cfp.papis.io/events/latam-2019)  
-25 - 26 Jun, 2019  
-Deadline: 13 March, 2019  
-São Paulo(SP), **Brazil**
 
 [**Front In SM**](https://frontinsm.com.br/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdFT-v-tZitDSgNZdc-yKsd-EwyhrN-WTWm2NdtYTTrtJYU9A/viewform)  
 08 Jun, 2019  
 Deadline: 24 March, 2019  
 Santa Maria(RS), **Brazil**
+
+[**TDC Belo Horizonte 2019**](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas)  
+[Call for papers](http://cfp-bh.thedevconf.com.br/)  
+13 to 15 June, 2019  
+Deadline: 29 March, 2019   
+Belo Horizonte(Minas Gerais) , **Brazil**
+
+[**Papis.io**](https://www.papis.io/)  
+[Call for papers](http://cfp.papis.io/events/latam-2019)  
+25 - 26 Jun, 2019  
+Deadline: 13 March, 2019  
+São Paulo(SP), **Brazil**
 
 [**Front In Sampa**](https://www.frontinsampa.com.br/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdOV0GjkppZdQmwyBNcqpMFdDthaAvpyzoRDR501E7ruOyFHg/viewform)  
@@ -114,6 +96,25 @@ São Paulo(SP), **Brazil**
 [Call for papers](https://speakerfight.com/events/python-nordeste-2019-palestras/)  
 19 - 21 July, 2019  
 Recife(PE), **Brazil**
+
+[**The Conf 2019**](https://www.theconf.club/)  
+[Call for papers](https://cfp.theconf.club/)  
+16 - 17 Aug, 2019  
+Deadline: 30 April, 2019  
+São Paulo (SP), **Brazil**
+
+
+[**DevDay**](https://devday.devisland.com/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSerTwkLtlSctLD6D4SBjh-p-S7kvDVGvGR6C6cSkw9owDBgag/viewform)  
+24 Aug, 2019  
+Deadline: 10 April, 2019    
+Belo Horizonte(MG) , **Brazil**
+
+[**ABC-Dev 2019**](http://www.abcdevelopers.org)  
+[Call for papers](http://www.abcdevelopers.org)  
+21 September, 2019  
+Deadline: 31 July, 2019  
+Grande ABC(São Paulo) , **Brazil**
 
 
 ### USA
@@ -126,8 +127,8 @@ Cleveland(Ohio) , **USA**
 
 [**Microsoft Build**](https://www.microsoft.com/en-us/build)  
 [Call for papers](https://sessionize.com/build?WT.mc_id=ch9-yt-chwarren)  
-06 to 08 May, 2019
-Deadline: 16 March, 2019  
+06 to 08 May, 2019  
+Deadline: 16 March, 2019   
 Seattle (Washington) , **USA**
 
 ### Europe
