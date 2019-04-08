@@ -110,6 +110,12 @@ Santa Maria(RS), **Brazil**
 13 July, 2019  
 São Paulo(SP), **Brazil**
 
+[**Python Nordeste**](https://2019.pythonnordeste.org/)  
+[Call for papers](https://speakerfight.com/events/python-nordeste-2019-palestras/)  
+19 - 21 July, 2019  
+Recife(PE), **Brazil**
+
+
 ### USA
 
 [**PYCON 2019**](https://us.pycon.org/2019/)  
