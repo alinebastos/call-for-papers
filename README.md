@@ -103,6 +103,12 @@ Recife(PE), **Brazil**
 Deadline: 30 April, 2019  
 São Paulo (SP), **Brazil**
 
+[**BrazilJS Conf 2019**](https://braziljs.org/conf/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdpydtv5heYvykRwiH67bjRrCFxvPal9gMLZPovdsQuLqNhcQ/viewform)  
+24 - 25 Aug, 2019  
+Deadline: 20 May, 2019  
+Porto Alegre (RS), **Brazil**
+
 
 [**DevDay**](https://devday.devisland.com/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSerTwkLtlSctLD6D4SBjh-p-S7kvDVGvGR6C6cSkw9owDBgag/viewform)  
