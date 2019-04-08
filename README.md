@@ -4,6 +4,12 @@ List with open Call for Papers!
 
 ### Brazil
 
+[**ABC-Dev 2019**](http://www.abcdevelopers.org)  
+[Call for papers](http://www.abcdevelopers.org)  
+21 September, 2019
+Deadline: 31 July, 2019  
+Grande ABC(São Paulo) , **Brazil**
+
 [**TDC Florianópolis 2019**](http://www.thedevelopersconference.com.br/tdc/2019/index.html)  
 [Call for papers](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/call4papers)  
 23 to 27 April, 2019
