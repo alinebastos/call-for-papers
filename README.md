@@ -81,6 +81,12 @@ Santa Maria(RS), **Brazil**
 Deadline: 29 March, 2019   
 Belo Horizonte(Minas Gerais) , **Brazil**
 
+[**BrazilJS On The Road Sorocaba 2019**](https://braziljs.org/eventos/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSe-9WTLU1dDDX7pJ0Hsg2kLboxzgH-jSleZJD5xoqw9p6aoqw/viewform)  
+15 June, 2019  
+Deadline: 17 May, 2019  
+Sorocaba (SP), **Brazil**  
+
 [**Papis.io**](https://www.papis.io/)  
 [Call for papers](http://cfp.papis.io/events/latam-2019)  
 25 - 26 Jun, 2019  
