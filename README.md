@@ -128,6 +128,12 @@ Belo Horizonte(MG) , **Brazil**
 Deadline: 31 July, 2019  
 Grande ABC(São Paulo) , **Brazil**
 
+[**Agile Brazil**](https://www.agilebrazil.com/2019/pt/)  
+[Call for papers](https://submissoes.agilebrazil.com/)  
+11,12,13 September, 2019  
+Deadline: 27 April, 2019    
+Belo Horizonte(MG) , **Brazil**
+
 
 ### USA
 
