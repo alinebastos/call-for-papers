@@ -98,6 +98,12 @@ São Paulo(SP), **Brazil**
 13 July, 2019  
 São Paulo(SP), **Brazil**
 
+[**TDC São Paulo 2019**](http://www.thedevelopersconference.com.br)  
+[Call for papers](http://cfp-sp.thedevconf.com.br/)  
+16 to 20 July, 2019  
+Deadline: 06 May, 2019   
+São Paulo(São Paulo) , **Brazil**
+
 [**Python Nordeste**](https://2019.pythonnordeste.org/)  
 [Call for papers](https://speakerfight.com/events/python-nordeste-2019-palestras/)  
 19 - 21 July, 2019  
