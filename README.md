@@ -13,8 +13,7 @@ Porto Alegre(RS) , **Brazil**
 Deadline:  
 04 Apr, 2019 - Campinas(SP)  
 24 Apr, 2019 - Belém(PA)  
-04 May, 2019 - São José do Rio Preto(SP)  
-11 May, 2019 - Fortaleza(CE)  
+04 May, 2019 - São José do Rio Preto(SP)    
 18 May, 2019 - Rio de Janeiro(RJ)  
 25 May, 2019 - João Pessoa(PB)  
 01 Jun, 2019 - Goiânia(GO)  
