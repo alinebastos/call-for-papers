@@ -105,6 +105,12 @@ Grande ABC(São Paulo) , **Brazil**
 Deadline: 27 April, 2019    
 Belo Horizonte(MG) , **Brazil**
 
+[**BrazilJS OnTheRoad Curitiba**](https://braziljs.org/eventos/otr-curitiba/2019/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdfEthJvVI4Zk1q8plJrXsTTblziQyFMmbIsShHqbSXTduxeA/viewform)  
+14 September, 2019  
+Deadline: 30 June, 2019  
+Curitiba (PR), **Brazil**
+
 
 ### USA
 
