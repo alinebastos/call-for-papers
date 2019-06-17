@@ -4,10 +4,6 @@ List with open Call for Papers!
 
 ### Brazil
 
-[**Conferência PHPRS 2019**](https://conference.phprs.com.br/)  
-17-18 May, 2019  
-Porto Alegre(RS) , **Brazil**
-
 [**RoadSec 2019**](https://roadsec.com.br/)  
 [Call for papers](https://roadsec.com.br/participe/)  
 Deadline:  
@@ -22,35 +18,6 @@ Deadline:
 29 Jun, 2019 - Belo Horizonte(MG)  
 23 Nov, 2019 - São Paulo(SP), **Brazil**
 
-[**DevOpsDays Porto Alegre**](https://www.devopsdays.org/events/2019-porto-alegre/)  
-[Call for papers](https://www.papercall.io/devopsdayspoa2019)  
-24 - 25 May, 2019  
-Deadline: 01 March, 2019  
-Porto Alegre(RS), **Brazil**
-
-[**Caipyra**](http://caipyra.python.org.br/)  
-[Call for papers](https://speakerfight.com/events/caipyra-2019-palestras/)  
-08 - 09 Jun, 2019  
-Deadline: 10 April, 2019  
-São Carlos(SP) , **Brazil**
-
-[**Front In SM**](https://frontinsm.com.br/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdFT-v-tZitDSgNZdc-yKsd-EwyhrN-WTWm2NdtYTTrtJYU9A/viewform)  
-08 Jun, 2019  
-Deadline: 24 March, 2019  
-Santa Maria(RS), **Brazil**
-
-[**TDC Belo Horizonte 2019**](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas)  
-[Call for papers](http://cfp-bh.thedevconf.com.br/)  
-13 to 15 June, 2019  
-Deadline: 29 March, 2019   
-Belo Horizonte(Minas Gerais) , **Brazil**
-
-[**BrazilJS On The Road Sorocaba 2019**](https://braziljs.org/eventos/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSe-9WTLU1dDDX7pJ0Hsg2kLboxzgH-jSleZJD5xoqw9p6aoqw/viewform)  
-15 June, 2019  
-Deadline: 17 May, 2019  
-Sorocaba (SP), **Brazil**  
 
 [**Papis.io**](https://www.papis.io/)  
 [Call for papers](http://cfp.papis.io/events/latam-2019)  
@@ -110,6 +77,11 @@ Belo Horizonte(MG) , **Brazil**
 14 September, 2019  
 Deadline: 30 June, 2019  
 Curitiba (PR), **Brazil**
+
+[**RanchoDev**](https://rancho.dev/)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLScwtWhxNUB_1LoUHYL0W8B6A1BC_YTZBTE8LTas-8qQVa-bgQ/viewform)  
+21 September, 2019  
+Sorocaba (SP), **Brazil**
 
 
 ### USA
