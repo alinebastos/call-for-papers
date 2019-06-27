@@ -19,12 +19,6 @@ Deadline:
 23 Nov, 2019 - São Paulo(SP), **Brazil**
 
 
-[**Papis.io**](https://www.papis.io/)  
-[Call for papers](http://cfp.papis.io/events/latam-2019)  
-25 - 26 Jun, 2019  
-Deadline: 13 March, 2019  
-São Paulo(SP), **Brazil**
-
 [**Front In Sampa**](https://www.frontinsampa.com.br/)  
 [Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSdOV0GjkppZdQmwyBNcqpMFdDthaAvpyzoRDR501E7ruOyFHg/viewform)  
 13 July, 2019  
