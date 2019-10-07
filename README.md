@@ -20,8 +20,8 @@ São Paulo(SP)
 Deadline: 10 October 2019  
 Florianópolis(SC)  
 
-[**BrazilJS On The Road São Paulo 2019**](https://frontin.floripa.br/)  
-[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSfkvRLcATqfqJX3qDQqnuTBDaV3-op7yPYWWR3GL6RFLdiG9w/viewform)  
+[**BrazilJS On The Road São Paulo 2019**](https://braziljs.org/eventos/otr-on-the-road-sao-paulo/2019)  
+[Call for papers](https://docs.google.com/forms/d/e/1FAIpQLSeFtSYFwhKgW32pZU-wadvKg5zul5PUfmoLsisL-pGqtXfqMQ/viewform)  
 30 November, 2019  
 São Paulo(SP)
 
