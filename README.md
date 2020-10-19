@@ -25,6 +25,11 @@ Florianópolis(SC)
 30 November, 2019  
 São Paulo(SP)
 
+[**The Developer's Conference 2020**](https://thedevconf.com/tdc/2020/index.html)  
+[Call for papers](https://thedevconf.com/call4papers)  
+2 to 4 December, 2020  
+Porto Alegre(RS)(Online)
+
 ### USA
 
 ### Europe
